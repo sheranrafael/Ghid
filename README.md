@@ -7,8 +7,9 @@ This project aims to develop a school support platform.
 2. CSS
 3. JavaScript
 4. Adobe Photoshop
+5. Canva
 
-## Feito apenas para estudos - Made just for studies.
+## Feito apenas para estudantes - Made just for students.
 
 Screenshots:
 
