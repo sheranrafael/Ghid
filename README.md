@@ -9,7 +9,8 @@ This project aims to develop a school support platform.
 4. Adobe Photoshop
 5. Canva
 
-ghid.vercel.app
+[ghid.vercel.app]
+
 ## Feito apenas para estudantes - Made just for students.
 
 Screenshots:
